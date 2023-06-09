@@ -51,3 +51,7 @@
 - Results           - Folder to store final analysis modelling results for the project.
 
 
+## Resources
+- Omdena Local Chapter Project Link [here](https://omdena.com/chapter-challenges/propertyai-a-one-stop-solution-for-real-estate-data-powered-by-ai/)
+- Omdena Local Chapter Project Management Folder [here](https://omdenadocs.notion.site/Dhaka-Bangladesh-Chapter-Developing-an-AI-powered-Recommendation-Platform-for-the-Real-Estate-In-66d86c761a3d45cbbbb7d340cda7792d)
+- Omdena Local Chapter Project Github Link [here](https://github.com/OmdenaAI/dhaka-bangladesh-real-estate-recommendation/tree/main)
