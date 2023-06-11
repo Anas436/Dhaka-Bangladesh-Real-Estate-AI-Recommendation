@@ -1,5 +1,7 @@
 # Dhaka-Bangladesh-Real-Estate-AI-Recommendation
 
+I invite you to explore our presentation showcasing the __Property Recommendation and Price Predictions Models__ [here](http://54.189.1.99:8501/)
+
 ## Contribution Guidelines
 - Have a Look at the [project structure](#project-structure) and [folder overview](#folder-overview) below to understand where to store/upload your contribution
 - If you're creating a task, Go to the task folder and create a new folder with the below naming convention and add a README.md with task details and goals to help other contributors understand
